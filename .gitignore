@@ -1,0 +1,22 @@
+# Python缓存
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# 环境配置（包含敏感信息）
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# 日志
+*.log
+
+# 测试缓存
+.pytest_cache/
+.coverage
+
+# 虚拟环境（如果用venv而非conda）
+venv/
